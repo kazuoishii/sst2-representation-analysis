@@ -1,8 +1,12 @@
 cff-version: 1.2.0
 message: If you use this code, please cite the associated manuscript and this software.
-  Zenodo DOI and arXiv identifier will be added after publication.
+  The software archive DOI is provided below; the manuscript arXiv identifier is pending.
 title: SST-2 BERT representation analysis
 type: software
+version: v1.0.0
+date-released: '2026-10-04'
+doi: 10.5281/zenodo.23130758
+repository-code: https://github.com/kazuoishii/sst2-representation-analysis
 authors:
 - &id001
   family-names: Ishii
