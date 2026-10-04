@@ -15,7 +15,7 @@ authors:
     Suwa University of Science, Chino 391-0292, Nagano, Japan
 license: MIT
 preferred-citation:
-  type: unpublished
+  type: article
   title: Geometric Deformation Does Not Imply Task-Relevant Information Degradation
     in Neural Representations
   authors:
@@ -29,5 +29,6 @@ preferred-citation:
     affiliation: Department of Information Engineering, Kanazawa Gakuin University,
       Kanazawa 920-1392, Ishikawa, Japan
   year: 2026
-  notes: Unpublished manuscript; public release on Zenodo and arXiv is planned. No
-    DOI or arXiv identifier has been assigned.
+  doi: 10.5281/zenodo.23130892
+  url: https://doi.org/10.5281/zenodo.23130892
+  notes: Zenodo preprint, Version 1.0; arXiv identifier pending.
