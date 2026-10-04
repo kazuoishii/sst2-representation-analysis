@@ -1,5 +1,7 @@
 # SST-2 BERT representation analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23130758.svg)](https://doi.org/10.5281/zenodo.23130758)
+
 Code and five-seed results for layerwise analysis of frozen `bert-base-uncased` representations on SST-2. This package covers representation analysis only. Recursive knowledge distillation is a separate experiment.
 
 ## Experimental design
@@ -103,7 +105,9 @@ Correspondence: kishii@rs.sus.ac.jp.
 
 Ishii, K., Gautam, B. P., and Saher, J. (2026). *Geometric Deformation Does Not Imply Task-Relevant Information Degradation in Neural Representations*. Unpublished manuscript.
 
-Zenodo and arXiv publication is planned. No Zenodo DOI or arXiv identifier has been assigned yet. Update this section and `CITATION.cff` when identifiers are available. The citation author names follow the supplied TeX exactly. `CITATION.cff` distinguishes the sole software author from the three manuscript authors.
+Software archive (v1.0.0): Ishii, K. (2026). *SST-2 BERT representation analysis* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23130758
+
+This DOI identifies the software archive, not the associated manuscript. arXiv publication of the manuscript is planned; its identifier will be added when available. The citation author names follow the supplied TeX exactly. `CITATION.cff` distinguishes the sole software author from the three manuscript authors.
 
 Please also cite GLUE, the Stanford Sentiment Treebank, and BERT as appropriate. Academic citation is requested; MIT licensing itself requires retention of the copyright and license notice, not a scholarly citation.
 
