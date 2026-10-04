@@ -103,7 +103,7 @@ Correspondence: kishii@rs.sus.ac.jp.
 
 ## Citation
 
-Ishii, K., Gautam, B. P., and Saher, J. (2026). *Geometric Deformation Does Not Imply Task-Relevant Information Degradation in Neural Representations*. Unpublished manuscript.
+Ishii, K., Gautam, B. P., and Saher, J. (2026). *Geometric Deformation Does Not Imply Task-Relevant Information Degradation in Neural Representations*. Zenodo preprint (Version 1.0). https://doi.org/10.5281/zenodo.23130892.
 
 Software archive (v1.0.0): Ishii, K. (2026). *SST-2 BERT representation analysis* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23130758
 
