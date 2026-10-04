@@ -83,7 +83,7 @@ Peak mean probe accuracy occurs at layer 11: 0.831422 ± 0.016096 (sample SD, fi
 
 ## Validation and publication status
 
-Python syntax, CSV schemas, five-seed aggregation, and numeric agreement with the supplied summary were checked. The full BERT inference experiment was not rerun in the packaging environment. This is an upload-ready archive, not a published GitHub repository.
+Python syntax, CSV schemas, five-seed aggregation, and numeric agreement with the supplied summary were checked. The full BERT inference experiment was not rerun in the packaging environment. Code and reproducibility materials are publicly available at https://github.com/kazuoishii/sst2-representation-analysis.
 
 ## License and authorship
 
@@ -103,7 +103,7 @@ Correspondence: kishii@rs.sus.ac.jp.
 
 Ishii, K., Gautam, B. P., and Saher, J. (2026). *Geometric Deformation Does Not Imply Task-Relevant Information Degradation in Neural Representations*. Unpublished manuscript.
 
-Zenodo and arXiv publication is planned. No public DOI, arXiv identifier, repository URL, or release date is asserted. Update this section and `CITATION.cff` when identifiers are available. The citation author names follow the supplied TeX exactly. `CITATION.cff` distinguishes the sole software author from the three manuscript authors.
+Zenodo and arXiv publication is planned. No Zenodo DOI or arXiv identifier has been assigned yet. Update this section and `CITATION.cff` when identifiers are available. The citation author names follow the supplied TeX exactly. `CITATION.cff` distinguishes the sole software author from the three manuscript authors.
 
 Please also cite GLUE, the Stanford Sentiment Treebank, and BERT as appropriate. Academic citation is requested; MIT licensing itself requires retention of the copyright and license notice, not a scholarly citation.
 

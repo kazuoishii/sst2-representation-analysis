@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this code, please cite the associated manuscript and this software.
+  Zenodo DOI and arXiv identifier will be added after publication.
+title: SST-2 BERT representation analysis
+type: software
+authors:
+- &id001
+  family-names: Ishii
+  given-names: Kazuo
+  affiliation: Department of Applied Information Engineering, Faculty of Engineering,
+    Suwa University of Science, Chino 391-0292, Nagano, Japan
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: Geometric Deformation Does Not Imply Task-Relevant Information Degradation
+    in Neural Representations
+  authors:
+  - *id001
+  - family-names: Gautam
+    given-names: Bishnu Prasad
+    affiliation: Department of Applied Information Engineering, Faculty of Engineering,
+      Suwa University of Science, Chino 391-0292, Nagano, Japan
+  - family-names: Saher
+    given-names: Javaid
+    affiliation: Department of Information Engineering, Kanazawa Gakuin University,
+      Kanazawa 920-1392, Ishikawa, Japan
+  year: 2026
+  notes: Unpublished manuscript; public release on Zenodo and arXiv is planned. No
+    DOI or arXiv identifier has been assigned.
