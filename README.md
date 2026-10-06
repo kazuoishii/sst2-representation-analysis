@@ -97,17 +97,17 @@ Associated manuscript authors, in the order shown in the supplied final TeX:
 
 1. Kazuo Ishii — Department of Applied Information Engineering, Faculty of Engineering, Suwa University of Science, Japan.
 2. Bishnu Prasad Gautam — same affiliation.
-3. Javaid Saher — Department of Information Engineering, Kanazawa Gakuin University, Japan.
+3. Saher Javaid — Department of Information Engineering, Kanazawa Gakuin University, Japan.
 
 Correspondence: kishii@rs.sus.ac.jp.
 
 ## Citation
 
-Ishii, K., Gautam, B. P., and Saher, J. (2026). *Geometric Deformation Does Not Imply Task-Relevant Information Degradation in Neural Representations*. Zenodo preprint (Version 1.0). https://doi.org/10.5281/zenodo.23130892.
+Ishii, K., Gautam, B. P., and Javaid, S. (2026). *Geometric Deformation Does Not Imply Task-Relevant Information Degradation in Neural Representations*. Zenodo preprint (Version 1.0). https://doi.org/10.5281/zenodo.23130892.
 
 Software archive (v1.0.0): Ishii, K. (2026). *SST-2 BERT representation analysis* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23130758
 
-This DOI identifies the software archive, not the associated manuscript. arXiv publication of the manuscript is planned; its identifier will be added when available. The citation author names follow the supplied TeX exactly. `CITATION.cff` distinguishes the sole software author from the three manuscript authors.
+This DOI identifies the software archive, not the associated manuscript. arXiv publication of the manuscript is planned; its identifier will be added when available. The manuscript author name is corrected to Saher Javaid (given name: Saher; family name: Javaid). `CITATION.cff` distinguishes the sole software author from the three manuscript authors.
 
 Please also cite GLUE, the Stanford Sentiment Treebank, and BERT as appropriate. Academic citation is requested; MIT licensing itself requires retention of the copyright and license notice, not a scholarly citation.
 
